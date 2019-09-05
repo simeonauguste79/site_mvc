@@ -1,0 +1,1 @@
+<!-- c'est à cet endroit que nous aurons nos affichages essentiellement en HTML -->
